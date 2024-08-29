@@ -14,6 +14,7 @@ return [
 
     'route' => [
         /*
+
          * The URI the endpoint responds to, e.g. mydomain.com/graphql.
          */
         'uri' => '/graphql',
